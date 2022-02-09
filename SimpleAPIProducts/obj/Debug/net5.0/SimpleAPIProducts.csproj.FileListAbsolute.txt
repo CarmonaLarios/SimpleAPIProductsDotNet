@@ -1,0 +1,118 @@
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\appsettings.json
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\SimpleAPIProducts.exe
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\SimpleAPIProducts.deps.json
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\SimpleAPIProducts.runtimeconfig.json
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\SimpleAPIProducts.runtimeconfig.dev.json
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\SimpleAPIProducts.dll
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\ref\SimpleAPIProducts.dll
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\SimpleAPIProducts.pdb
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\obj\Debug\net5.0\SimpleAPIProducts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\obj\Debug\net5.0\SimpleAPIProducts.AssemblyInfoInputs.cache
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\obj\Debug\net5.0\SimpleAPIProducts.AssemblyInfo.cs
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\obj\Debug\net5.0\SimpleAPIProducts.csproj.CoreCompileInputs.cache
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\obj\Debug\net5.0\SimpleAPIProducts.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\obj\Debug\net5.0\SimpleAPIProducts.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\obj\Debug\net5.0\staticwebassets\SimpleAPIProducts.StaticWebAssets.Manifest.cache
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\obj\Debug\net5.0\staticwebassets\SimpleAPIProducts.StaticWebAssets.xml
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\obj\Debug\net5.0\scopedcss\bundle\SimpleAPIProducts.styles.css
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\obj\Debug\net5.0\SimpleAPIProducts.RazorTargetAssemblyInfo.cache
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\obj\Debug\net5.0\SimpleAPIProducts.csproj.CopyComplete
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\obj\Debug\net5.0\SimpleAPIProducts.dll
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\obj\Debug\net5.0\ref\SimpleAPIProducts.dll
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\obj\Debug\net5.0\SimpleAPIProducts.pdb
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\obj\Debug\net5.0\SimpleAPIProducts.genruntimeconfig.cache
+C:\Users\Renan\source\repos\SimpleAPIProducts\SimpleAPIProducts\obj\Debug\net5.0\SimpleAPIProducts.csproj.AssemblyReference.cache
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\appsettings.Development.json
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\appsettings.json
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\SimpleAPIProducts.exe
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\SimpleAPIProducts.deps.json
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\SimpleAPIProducts.runtimeconfig.json
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\SimpleAPIProducts.runtimeconfig.dev.json
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\SimpleAPIProducts.dll
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\ref\SimpleAPIProducts.dll
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\SimpleAPIProducts.pdb
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\obj\Debug\net5.0\SimpleAPIProducts.csproj.AssemblyReference.cache
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\obj\Debug\net5.0\SimpleAPIProducts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\obj\Debug\net5.0\SimpleAPIProducts.AssemblyInfoInputs.cache
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\obj\Debug\net5.0\SimpleAPIProducts.AssemblyInfo.cs
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\obj\Debug\net5.0\SimpleAPIProducts.csproj.CoreCompileInputs.cache
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\obj\Debug\net5.0\SimpleAPIProducts.MvcApplicationPartsAssemblyInfo.cs
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\obj\Debug\net5.0\SimpleAPIProducts.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\obj\Debug\net5.0\staticwebassets\SimpleAPIProducts.StaticWebAssets.Manifest.cache
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\obj\Debug\net5.0\staticwebassets\SimpleAPIProducts.StaticWebAssets.xml
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\obj\Debug\net5.0\scopedcss\bundle\SimpleAPIProducts.styles.css
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\obj\Debug\net5.0\SimpleAPIProducts.RazorTargetAssemblyInfo.cache
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\obj\Debug\net5.0\SimpleAPIProducts.csproj.CopyComplete
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\obj\Debug\net5.0\SimpleAPIProducts.dll
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\obj\Debug\net5.0\ref\SimpleAPIProducts.dll
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\obj\Debug\net5.0\SimpleAPIProducts.pdb
+C:\Projetos Dev\SimpleAPIProducts\SimpleAPIProducts\obj\Debug\net5.0\SimpleAPIProducts.genruntimeconfig.cache

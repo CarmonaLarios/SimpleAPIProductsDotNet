@@ -1,0 +1,5 @@
+{
+    "name": "Aparelho Bluray",
+    "manufacturer": "Sony",
+    "price": 400
+}
